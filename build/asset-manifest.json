@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hungryme/static/css/main.ce3195ca.css",
+    "main.js": "/hungryme/static/js/main.46e66aa6.js",
+    "static/media/meals.jpg": "/hungryme/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/hungryme/index.html",
+    "main.ce3195ca.css.map": "/hungryme/static/css/main.ce3195ca.css.map",
+    "main.46e66aa6.js.map": "/hungryme/static/js/main.46e66aa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3195ca.css",
+    "static/js/main.46e66aa6.js"
+  ]
+}
